@@ -30,5 +30,5 @@ const people = [{
 }
 ]
 
-console.log(people[1].address.Rua) // consigo usar tudo junto e misturado.
+console.log(people[1].address.Rua) // consigo usar tudo junto e misturado. LEMBRANDO - inicia pelo ZERO entao busco o segundo.
 // posso usar ARRAYS com lista e nomes e frases tudo junto e buscar informaçoes distintas.
